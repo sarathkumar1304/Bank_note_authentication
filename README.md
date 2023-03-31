@@ -1,6 +1,6 @@
 # Bank_note_authentication
 
-#Problem Statement
+Problem Statement:
 
 Machine learning algorithms learn from the dataset. Therefore, to identify whether a banknote is real or not, we needed a dataset of real as well as fake banknotes along with their different features.
 
